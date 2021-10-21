@@ -1,2 +1,2 @@
-# Python_layers_AWS
+# Pylayers
 Build layers for any python library
